@@ -724,6 +724,7 @@
  }
 
  .carousel-indicators button {
+    display: none !important;
      width: 15px;
      height: 15px;
      border-radius: 50%;
